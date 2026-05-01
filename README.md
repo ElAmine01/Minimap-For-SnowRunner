@@ -1,4 +1,4 @@
-# 🗺️ SnowMap — The Ultimate Minimap Mod for SnowRunner
+# 🗺️ The Minimap Mod for SnowRunner
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20x64-blue)](#)
 [![Tech](https://img.shields.io/badge/tech-C%2B%2B%20%7C%20DX11%20%7C%20ImGui-green)](#)
