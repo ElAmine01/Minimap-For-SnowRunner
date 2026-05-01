@@ -7,16 +7,6 @@
 **SnowMap** is a highly optimized, real-time GPS minimap overlay for SnowRunner (PC / Steam / Epic). 
 Tired of opening the map every 30 seconds to check the road? SnowMap brings a fully interactive, rotating GPS directly to your HUD, just like in your favorite open-world games.
 
-## ✨ Features
-
-* 🛰️ **Cloud 4K Maps (Auto-Download):** Automatically fetches the gorgeous 4K satellite maps from MapRunner in the background as you enter a new region. No manual installation required!
-* 🧭 **Dynamic GPS Rotation:** Choose between a static map with a rotating arrow, or a modern "TomTom/Waze" mode where the map rotates around your truck.
-* 🎮 **Gamepad & Keyboard Support:** Seamlessly zoom in/out or toggle the map using your Xbox or PlayStation controller (D-Pad) while driving.
-* 🚀 **Zero FPS Drop:** Engineered with a custom C++ multi-threaded architecture. It reads the truck's coordinates directly from the game's RAM memory (bypassing Denuvo) for perfectly smooth tracking without lagging the graphics card.
-* ⚙️ **Fully Customizable:** Easily change the map size, position, transparency, and hotkeys in real-time via a simple `options.json` file. No restart needed.
-
----
-
 ## 📥 Installation
 
 1. Download the latest release (`SnowMap.zip`).
