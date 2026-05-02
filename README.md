@@ -4,9 +4,6 @@
 [![Tech](https://img.shields.io/badge/tech-C%2B%2B%20%7C%20DX11%20%7C%20ImGui-green)](#)
 [![Input](https://img.shields.io/badge/input-Keyboard%20%7C%20Gamepad-orange)](#)
 
-**SnowMap** is a highly optimized, real-time GPS minimap overlay for SnowRunner (PC / Steam / Epic). 
-Tired of opening the map every 30 seconds to check the road? SnowMap brings a fully interactive, rotating GPS directly to your HUD, just like in your favorite open-world games.
-
 ## 📥 Installation
 
 1. Download the latest release (`SnowMap.zip`).
