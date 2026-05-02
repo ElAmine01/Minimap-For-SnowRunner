@@ -15,6 +15,7 @@ Tired of opening the map every 30 seconds to check the road? SnowMap brings a fu
 3. Launch the game! The mod will automatically inject itself and load the map when you leave the garage.
 
 *Note: The folder should look like this: `Bin/dinput8.dll`, `Bin/SnowMap.asi`, and the `Bin/SnowMap/` folder.*
+*Important: internet connection required.*
 
 ---
 
