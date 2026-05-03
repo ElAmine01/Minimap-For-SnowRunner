@@ -36,3 +36,19 @@
 Because this mod uses a proxy DLL (dinput8.dll), reads the game's RAM to track your truck, and connects to the internet to download the map, Windows Defender or your Antivirus may flag it as a virus (e.g., GameHack or Trojan).
 This is a 100% False Positive. 
 To install it, you may need to add the SnowRunner Bin folder to your Antivirus exceptions/exclusions.
+
+How to add the game folder to Windows Defender Exclusions:
+
+    1. Open your Start Menu and search for Windows Security.
+
+    2. Click on Virus & threat protection.
+
+    3. Under Virus & threat protection settings, click on Manage settings.
+
+    4. Scroll down to the Exclusions section and click Add or remove exclusions.
+
+    5. Click the + Add an exclusion button and select Folder.
+
+    6. Navigate to your SnowRunner Binaries folder and select it: (e.g., C:\Program Files (x86)\Steam\steamapps\common\SnowRunner\Sources\Bin)
+
+    7. Extract the mod files into this folder. You are now ready to play!
