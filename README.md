@@ -30,3 +30,8 @@
 *(All keys and buttons can be remapped in `SnowMap/options.json`).*
 
 ---
+
+## ⚠️ Antivirus & False Positives
+
+Because this mod uses a proxy DLL (dinput8.dll), reads the game's RAM to track your truck, and connects to the internet to download the map, Windows Defender or your Antivirus may flag it as a virus (e.g., GameHack or Trojan).
+This is a 100% False Positive. The mod is completely open-source. To install it, you may need to add the SnowRunner Bin folder to your Antivirus exceptions/exclusions.
