@@ -21,7 +21,7 @@
 **Keyboard:**
 * **F5:** Show / Hide Minimap
 * **F6:** Reload configuration (`options.json`)
-* **Numpad + / Numpad - :** Zoom In / Zoom Out
+* **= / ):** Zoom In / Zoom Out
 
 **Controller (Gamepad):**
 * **D-Pad Right:** Zoom In
