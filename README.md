@@ -11,7 +11,17 @@
    `C:\Program Files (x86)\Steam\steamapps\common\SnowRunner\Sources\Bin`
 3. Launch the game! The mod will automatically inject itself and load the map when you leave the garage.
 
-*Note: The folder should look like this: `Bin/dinput8.dll`, `Bin/SnowMap.asi`, and the `Bin/SnowMap/` folder.*
+### Quick install (batch)
+
+Run the batch installer to choose Steam or Epic Games, then it will:
+
+- move all `.asi` and `.dll` files to the game `Sources\Bin` folder
+- move the `SnowMap` folder (including its contents)
+- optionally delete the source folder if `DELETE_SOURCE=1`
+
+Run it from this folder: [install_minimap.bat](install_minimap.bat)
+
+*Note: The folder should look like this: `Bin/dinput8.dll`, `Bin/SnowMap.asi`, and the `Bin/SnowMap/` folder.*  
 *Important: internet connection required.*
 
 ---
@@ -20,12 +30,13 @@
 
 **Keyboard:**
 * **F5:** Show / Hide Minimap
-* **F6:** Reload configuration (`options.json`)
+* **F6:** Reload configuration
 * **= / ):** Zoom In / Zoom Out
 
 **Controller (Gamepad):**
 * **D-Pad Right:** Zoom In
 * **D-Pad Left:** Zoom Out
+* **Left Stick Click:**  Display/Hide
 
 *(All keys and buttons can be remapped in `SnowMap/options.json`).*
 
@@ -33,8 +44,8 @@
 
 ## ⚠️ Antivirus & False Positives
 
-Because this mod uses a proxy DLL (dinput8.dll), reads the game's RAM to track your truck, and connects to the internet to download the map, Windows Defender or your Antivirus may flag it as a virus (e.g., GameHack or Trojan).
-This is a 100% False Positive. 
+Because this mod uses a proxy DLL (dinput8.dll), reads the game's RAM to track your truck, and connects to the internet to download the map, Windows Defender or your Antivirus may flag it as a virus (e.g., GameHack or Trojan). <br>
+This is a 100% False Positive. <br>
 To install it, you may need to add the SnowRunner Bin folder to your Antivirus exceptions/exclusions.
 
 How to add the game folder to Windows Defender Exclusions:

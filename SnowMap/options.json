@@ -1,0 +1,33 @@
+{
+    "_comment_layout": "anchor: 0=TopLeft, 1=TopRight, 2=BottomLeft, 3=BottomRight",
+    "position_x": 20,
+    "position_y": 20,
+    "size_px": 320,
+    "anchor": 0,
+
+    "_comment_visual": "zoom: 1.0 = map complete, 15.0 = vue GPS proche. opacity = transparence de la carte.",
+    "zoom": 15.0,
+    "opacity": 1,
+    "rotate_with_player": true,
+    "show_player_arrow": true,
+
+    "_comment_keys": "Codes Clavier. F5=116, F6=117, Numpad(+)=107, Numpad(-)=109",
+    "toggle_key": 116,
+    "reload_key": 117,
+    "zoom_in_key": 187,
+    "zoom_out_key": 219,
+
+    "_comment_pad": "Codes Manette. DpadLeft=4, DpadRight=8. 0 = Desactive.",
+    "pad_toggle_btn": 64,
+    "pad_reload_btn": 0,
+    "pad_zoom_in_btn": 8,
+    "pad_zoom_out_btn": 4,
+
+    "_comment_assets": "Chemin vers l'icone personnalisee du joueur (fleche).",
+    "arrow_png_path": "SnowMap/arrow.png",
+
+    "_comment_capture": "Taille max acceptee pour l'echelle Xform. Garder a 5000 pour SnowRunner.",
+    "max_capture_size_px": 5000,
+
+    "draw_debug_window": false
+}
