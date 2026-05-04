@@ -6,7 +6,7 @@
 
 ## 📥 Installation
 
-1. Download the latest release (`SnowMap.zip`).
+1. Download the files.
 2. Extract the contents directly into your SnowRunner Binaries folder:
    `C:\Program Files (x86)\Steam\steamapps\common\SnowRunner\Sources\Bin`
 3. Launch the game! The mod will automatically inject itself and load the map when you leave the garage.
