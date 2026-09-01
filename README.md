@@ -31,12 +31,9 @@ Run it from this folder: [install_minimap.bat](install_minimap.bat)
 **Keyboard:**
 * **F5:** Show / Hide Minimap
 * **F6:** Reload configuration
-* **= / ):** Zoom In / Zoom Out
-
-**Controller (Gamepad):**
-* **D-Pad Right:** Zoom In
-* **D-Pad Left:** Zoom Out
-* **Left Stick Click:**  Display/Hide
+* **F7:** Show Debug Overlay
+* **+=:** Zoom In
+* **-_:** Zoom Out
 
 *(All keys and buttons can be remapped in `SnowMap/options.json`).*
 
